@@ -4,13 +4,12 @@
 This project contains a LabVIEW program designed to control a coffee machine. The program offers functionalities such as selecting coffee types, setting brewing strength, and managing the coffee machine's operational status.
 
 ## Prerequisites
-- LabVIEW (version number)
-- Additional dependencies or libraries (if any)
+- LabVIEW (2023 Q3)
 
 ## Installation
 Clone the repository to your local machine:
 
-'git clone https://github.com/TimothyMas/Coffee-Machine'
+`git clone https://github.com/TimothyMas/Coffee-Machine`
 
 ## Usage
 1. Open the LabVIEW project file (.lvproj) in LabVIEW.
