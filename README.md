@@ -1,7 +1,7 @@
 # Coffee-Machine
 
 ## Overview
-This project contains a LabVIEW program designed to control a coffee machine. The program offers functionalities such as selecting coffee types, setting brewing strength, and managing the coffee machine's operational status.
+This project contains a LabVIEW program designed to control a coffee machine. The program offers functionalities such as selecting coffee types and managing the coffee machine's operational status.
 
 ## Prerequisites
 - LabVIEW (2023 Q3)
